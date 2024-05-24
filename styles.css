@@ -62,7 +62,7 @@ h1 {
  } 
 
  li{
-    font-size: 1.49rem;
+    font-size: 1.23rem;
     font-weight: 600;
     margin: 16px;
     margin-left: -10px;
@@ -108,7 +108,7 @@ body{
 }
 
 .task-text{
-    word-break: keep-all;
+    word-break: keep-all !important;
     margin-right: 20px !important;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
     
