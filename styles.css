@@ -108,7 +108,7 @@ body{
 }
 
 .task-text{
-    word-break: normal;
+    word-break: keep-all;
     margin-right: 20px !important;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
     
