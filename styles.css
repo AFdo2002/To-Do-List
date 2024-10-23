@@ -14,7 +14,7 @@
 #input-box {
   border: 2px solid transparent;
   border-radius: 10px;
-  font-size: 1.3rem !important;
+  font-size: 1.12rem !important;
   padding: 6px;
   width: 65%;
   box-shadow: 0 0 10px 0 black;
@@ -24,6 +24,10 @@
 #input-box:focus {
   border: 2.3px solid #3d34cb;
   outline: none;
+}
+
+#input-box::placeholder {
+  font-size: 18px; 
 }
 
 .btn {
